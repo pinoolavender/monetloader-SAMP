@@ -1,14 +1,12 @@
 var FILES_DATA = [
   {
-    "id": "1777355932881",
-    "name": "SENSI AIM",
+    "id": "1777356145799",
+    "name": "HUD COLOR",
     "author": "pinoolavender",
-    "command": "/sensi",
-    "link": "https://bicolink.com/odW",
+    "command": "/hud",
+    "link": "https://bicolink.com/3n9v",
     "preview": "",
-    "features": [
-      "biar aim lu licin njir"
-    ],
+    "features": [],
     "downloads": 0
   },
   {
