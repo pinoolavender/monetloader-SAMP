@@ -1,14 +1,12 @@
 var FILES_DATA = [
   {
-    "id": "1777448767318",
-    "name": "UNLIMITED STAMINA",
-    "author": "pinoolavender",
-    "command": "/s",
-    "link": "https://bicolink.com/A8rclEy",
+    "id": "1777448828226",
+    "name": "P",
+    "author": "P",
+    "command": "P",
+    "link": "p",
     "preview": "",
-    "features": [
-      "biar ga capek/haus kalo lari"
-    ],
+    "features": [],
     "downloads": 0
   },
   {
